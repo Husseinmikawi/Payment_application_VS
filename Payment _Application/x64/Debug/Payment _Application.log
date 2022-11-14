@@ -1,0 +1,12 @@
+﻿  app.c
+  card.c
+  main.c
+C:\Hussein\Courses\Embadded system\egfwd\Payment _Application\Payment _Application\main.c(8,2): warning C4013: 'printf' undefined; assuming extern returning int
+  server.c
+C:\Hussein\Courses\Embadded system\egfwd\Payment _Application\Payment _Application\server.c(44,3): warning C4013: 'printf' undefined; assuming extern returning int
+C:\Hussein\Courses\Embadded system\egfwd\Payment _Application\Payment _Application\server.c(129,31): warning C4098: 'getTransaction': 'void' function returning a value
+C:\Hussein\Courses\Embadded system\egfwd\Payment _Application\Payment _Application\server.c(156,19): warning C4098: 'getTransaction': 'void' function returning a value
+  terminal.c
+  Generating Code...
+C:\Hussein\Courses\Embadded system\egfwd\Payment _Application\Payment _Application\server.c(83): warning C4715: 'isBlockedAccount': not all control paths return a value
+  Payment _Application.vcxproj -> C:\Hussein\Courses\Embadded system\egfwd\Payment _Application\x64\Debug\Payment _Application.exe
